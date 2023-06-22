@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Georgina</h1>
 <h3 align="center">A passionate developer from London</h3>
 
-- 🔭 I’m currently working on the Founders and Coders Software Foundation [bootcamp](https://www.foundersandcoders.com/foundation)
+- 🔭 I’m currently working on the Founders and Coders Software Foundation [bootcamp]([https://www.foundersandcoders.com/foundation](https://github.com/generateGeorgina/FACPortfolio))
 
 - 🌱 I’m currently learning **AWS, HTML, CSS and JavaScript**
 
