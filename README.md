@@ -4,11 +4,11 @@
 - 🔭 I’m currently working on the Founders and Coders Software Foundation. This is what I've been [learning](https://github.com/generateGeorgina/FACPortfolio).
 
 - 🌱 I’m currently learning **AWS, HTML, CSS and JavaScript**
+- 🌞 I made the history page on this [weather app](https://sgroi-l.github.io/apiProject/) project
 
 - 🤝 I’m looking for a designer to help with [Beautiful Calculator](https://github.com/generateGeorgina/beautiful-calculator)
 
 - 👨‍💻 All of my projects are available at [https://github.com/generateGeorgina?tab=repositories](https://github.com/generateGeorgina?tab=repositories)
-- 🌞 I made the history page on this [weather app](https://sgroi-l.github.io/apiProject/) project
 
 - ⚡ Fun fact: **A few years ago, I decided to design and build my own computer as a side project. I still love looking at my computer!**
 
