@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Georgina</h1>
 <h3 align="center">A passionate developer from London</h3>
 
-- 🔭 I’m currently working on the Founders and Coders Software Foundation. This is what I've been [learning](https://github.com/generateGeorgina/FACPortfolio).
+- 🔭 I’m currently working on the Founders and Coders (FAC) Software Foundation. This is what I've been [learning](https://github.com/generateGeorgina/FACPortfolio).
 
 - 🌱 I’m currently learning **AWS, HTML, CSS and JavaScript**
-- 🌞 I made the history page on this [weather app](https://sgroi-l.github.io/apiProject/) project
+- 🌞 Here are the repos to collaborative projects on FAC [weather app](https://sgroi-l.github.io/apiProject/), [pomodoro timer](https://github.com/nichgalzin/pomo-timer) and [to-do list](https://github.com/cazanelena/to-do-list).
 
 - 🤝 I’m looking for a designer to help with [Beautiful Calculator](https://github.com/generateGeorgina/beautiful-calculator)
 
