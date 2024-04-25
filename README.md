@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Georgina</h1>
-<h3 align="center">A passionate developer from London</h3>
+<h3 align="center">A passionate QA Tester/developer from London</h3>
 
 - 🔭 I’m currently working on the Founders and Coders (FAC) Software Foundation. This is what I've been [learning](https://github.com/generateGeorgina/FACPortfolio).
 
