@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Georgina</h1>
 <h3 align="center">A passionate QA Tester/developer from London</h3>
 
-- 🔭 I’m currently working on the CBF Intro to Tech course. 
+- 🔭 I’m currently working on the CBF Intro to Tech course
 
-- 🌱 I’m currently learning **Java!**
+- 🌱 I’m currently focusing on **Java**
 
 
 - 🤝 In the past, I've worked on AWS, Backend and Frontend web projects
