@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Georgina</h1>
-<h3 align="center">A passionate QA Tester/developer from London</h3>
+<h3 align="center">Learner</h3>
 
 - 🔭🌱 I’m currently working on the CBF Intro to Tech course focusing on **Java**
 
