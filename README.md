@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/generateGeorgina?tab=repositories](https://github.com/generateGeorgina?tab=repositories)
 
-- ⚡ Fun fact: **A few years ago, I decided to design and build my own computer as a side project. I still love looking at my computer!**
+- ⚡ Fun fact: **Designed and built my own computer as a side project. I still love looking at my computer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
