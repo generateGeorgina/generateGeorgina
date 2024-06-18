@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Georgina</h1>
+<h1 align="center">I'm Georgina 👋</h1>
 <h3 align="center">Learner</h3>
 
 - 🔭🌱 Currently working on the CBF Intro to Tech course focusing on **Java**
