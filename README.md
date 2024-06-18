@@ -3,7 +3,7 @@
 
 - 🔭🌱 I’m currently working on the CBF Intro to Tech course focusing on **Java**
 
-- 🤝 In the past, I've worked on AWS, Backend and Frontend web projects
+- 🤝 In the past, I've worked on backend and frontend web projects
 - 🌞 Here are the repos to collaborative projects you won't find on my profile: [weather app](https://sgroi-l.github.io/apiProject/), [pomodoro timer](https://github.com/nichgalzin/pomo-timer) and [to-do list](https://github.com/cazanelena/to-do-list).
 - This is a summary of my [learnings](https://github.com/generateGeorgina/FACPortfolio).
 
