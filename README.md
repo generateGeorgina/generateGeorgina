@@ -1,9 +1,9 @@
 <h1 align="center">I'm Georgina 👋</h1>
 <h3 align="center">Learner</h3>
 
-- 🔭🌱 Currently working on the CBF Intro to Tech course focusing on **Java**
+- 🌱 Currently working on the CBF Intro to Tech course focusing on **Java**
 
-- 🤝 In the past, I've worked on both backend and frontend web projects
+- 👯‍♀️ In the past, I've worked on both backend and frontend web projects
   
 - ⚡ Fun fact: **Designed and built my own computer as a side project. I still love looking at my computer!**
 
